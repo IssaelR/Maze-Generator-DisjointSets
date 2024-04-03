@@ -1,0 +1,3 @@
+C:\Users\rocke\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\maze_1_0.dir/objects.a
+C:\Users\rocke\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\maze_1_0.dir/objects.a @CMakeFiles\maze_1_0.dir\objects1.rsp
+C:\Users\rocke\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\maze_1_0.dir/objects.a -Wl,--no-whole-archive -o maze_1_0.exe -Wl,--out-implib,libmaze_1_0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\maze_1_0.dir\linkLibs.rsp

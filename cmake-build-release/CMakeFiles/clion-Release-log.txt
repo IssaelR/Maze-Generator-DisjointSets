@@ -1,0 +1,44 @@
+C:\Users\rocke\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -G "MinGW Makefiles" -S "C:\Users\rocke\Documents\USIL\ING SOFTWARE\4TO CICLO\PROGRAMACION Y ESTRUCTURAS DE DATOS\TRABAJO FINAL\GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23" -B "C:\Users\rocke\Documents\USIL\ING SOFTWARE\4TO CICLO\PROGRAMACION Y ESTRUCTURAS DE DATOS\TRABAJO FINAL\GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23\cmake-build-release"
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/rocke/Documents/USIL/ING SOFTWARE/4TO CICLO/PROGRAMACION Y ESTRUCTURAS DE DATOS/TRABAJO FINAL/GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-v6jr03/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/rocke/Documents/USIL/ING SOFTWARE/4TO CICLO/PROGRAMACION Y ESTRUCTURAS DE DATOS/TRABAJO FINAL/GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-v6jr03/CMakeFiles/cmTC_5e8a6.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/rocke/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/rocke/Documents/USIL/ING SOFTWARE/4TO CICLO/PROGRAMACION Y ESTRUCTURAS DE DATOS/TRABAJO FINAL/GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-jigk2y/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/rocke/Documents/USIL/ING SOFTWARE/4TO CICLO/PROGRAMACION Y ESTRUCTURAS DE DATOS/TRABAJO FINAL/GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-jigk2y/CMakeFiles/cmTC_945b2.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/rocke/AppData/Local/Programs/CLion/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (3.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/rocke/Documents/USIL/ING SOFTWARE/4TO CICLO/PROGRAMACION Y ESTRUCTURAS DE DATOS/TRABAJO FINAL/GRUPO 2 TRABAJO FINAL LABERINTO 21-11-23/cmake-build-release

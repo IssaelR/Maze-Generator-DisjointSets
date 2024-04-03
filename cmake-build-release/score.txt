@@ -1,0 +1,15 @@
+Nivel: 1 Movimientos: 15 Puntaje: 86/100
+Nivel: 2 Movimientos: 30 Puntaje: 197/225
+Nivel: 3 Movimientos: 52 Puntaje: 350/400
+Nivel: 4 Movimientos: 85 Puntaje: 545/625
+Nivel: 5 Movimientos: 112 Puntaje: 794/900
+Nivel: 6 Movimientos: 168 Puntaje: 1069/1225
+                                           Nivel: 1 Movimientos: 20 Puntaje: 82/100
+                                           Nivel: 2 Movimientos: 33 Puntaje: 195/225
+                                           Nivel: 3 Movimientos: 44 Puntaje: 356/400
+                                           Nivel: 1 Movimientos: 14 Puntaje: 86/100
+                                           Nivel: 2 Movimientos: 69 Puntaje: 167/225
+                                           Nivel: 3 Movimientos: 48 Puntaje: 356/400
+                                           Nivel: 4 Movimientos: 67 Puntaje: 561/625
+                                           Nivel: 1 Movimientos: 24 Puntaje: 80/100
+                                           Nivel: 2 Movimientos: 47 Puntaje: 183/225
