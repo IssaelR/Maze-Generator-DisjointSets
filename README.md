@@ -1,4 +1,4 @@
-"# decentralized-app" 
+A terminal maze game based on the use of Disjoint Sets for the generation made in group, so the chose of using Disjoint Sets came from the book "Data Structures & Algorithm Analysis in C++" from Mark Weiss, so from that point we made some research to consider some implementations though at that moment we did not find any in GitHub using C++, and that was one of our motivations.
 
 
 Menu:
